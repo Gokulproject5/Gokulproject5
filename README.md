@@ -30,6 +30,6 @@ I love exploring Linux, open-source, and web development.
 ### 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/gokulakrishnan-a-g8608)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https.//linkedin.com/gokulakrishnan-a-g8608)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/web.devwithgokul)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
