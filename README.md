@@ -36,12 +36,40 @@ const gokul = {
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulproject5&bg_color=0d1117&color=00bfa6&line=00bfa6&point=ffffff&area=true&hide_border=true" width="100%"/> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gokulproject5&theme=tokyonight&no-frame=true&margin-w=15" /> </p>
-🚀 Projects
-💡 Project	🔍 Description
-🧭 Tripadvisor-Style Footer	Responsive footer built with HTML & CSS inspired by Tripadvisor UI.
-💼 Portfolio Website	Personal portfolio showcasing my projects, skills, and experience.
-📝 To-Do App	A clean, interactive task tracker made using vanilla JS.
-🪄 Animated Skill Progress
+---
+
+## 🏆 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/Gokulproject5/tripadvisor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gokulproject5&repo=tripadvisor&theme=tokyonight" />
+  </a>
+
+</p>
+
+---
+
+## 💬 Project Reviews  
+
+#### 🧭 Tripadvisor-Style Footer  
+⭐ **Review:** Beautiful responsive layout with clean grid design — excellent use of HTML & CSS for real-world UI.  
+🛠️ **Tech Used:** HTML5, CSS3  
+🔗 [View Code](https://github.com/Gokulproject5/Tripadvisor/) · 🌐 [Live Demo](https://tripadvisor-we.netlify.app/)
+
+---
+
+#### 💼 Portfolio Website 
+⭐ **Review:** Professional design with smooth transitions and strong branding. Great for showcasing personal work.  
+🛠️ **Tech Used:** HTML, CSS, JavaScript  
+🔗 [View Code](https://github.com/Gokulproject5/portfolio) · 🌐 [Live Demo](https://gokul-portfolio-0077.netlify.app/)
+
+---
+
+#### Visting Card 
+ **Review:** Simple, functional, and interactive — demonstrates JavaScript event handling and DOM logic clearly.  
+🛠️ **Tech Used:** Vanilla JavaScript, HTML, CSS  
+🔗 [View Code](https://github.com/Gokulproject5/visiting-card2) · 🌐 [Live Demo]([https://gokulakrishnan-a.github.io/todo-app/](https://my-v-card-2.netlify.app/))
+
 Skill	Level
 💻 HTML / CSS	
 
@@ -63,3 +91,7 @@ Skill	Level
 💬 Random Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote"/> </p>
 <h3 align="center">⭐ If you like my profile, don’t forget to star my repositories!</h3> <p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="coding animation"> </p> 
+
+
+
+
