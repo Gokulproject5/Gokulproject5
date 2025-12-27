@@ -54,23 +54,9 @@ const gokul = {
 
 🧠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,postman,vscode,figma" /> </p>
-⚙️ GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gokulproject5&show_icons=true&theme=tokyonight&hide_border=false" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulproject5&theme=tokyonight&hide_border=false" height="165" /> </p>
+ 
 🌐 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulproject5&bg_color=0d1117&color=00bfa6&line=00bfa6&point=ffffff&area=true&hide_border=true" width="100%"/> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gokulproject5&theme=tokyonight&no-frame=true&margin-w=15" /> </p>
----
-
-## 🏆 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/Gokulproject5/tripadvisor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gokulproject5&repo=tripadvisor&theme=tokyonight" />
-  </a>
-
-</p>
-
 ---
 
 ## 💬 Project Reviews  
